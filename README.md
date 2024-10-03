@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stellina0&label=Profile%20views&color=0e75b6&style=flat" alt="stellina0" /> </p>
 
-- 🔭 I’m currently working on [http://stellina.online](http://stellina.online)
+- 🔭 I’m currently working on [stellina.online](http://stellina.online)
 
 - 🌱 I’m currently learning **Nest.js**
 
